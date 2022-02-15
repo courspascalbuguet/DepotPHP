@@ -23,6 +23,9 @@ class Pays {
         return $this->idPays;
     }
 
+    /**
+     * 
+     */
     public function getNomPays() {
         return $this->nomPays;
     }
